@@ -1,4 +1,4 @@
-# Crypton Web preview
+# qrcode Web preview
 
 Open https://p2ppsr.github.io/crypton-web-preview/ inside a compatible Metanet wallet browser for wallet-backed sending and receiving.
 
